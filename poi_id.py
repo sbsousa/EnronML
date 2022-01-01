@@ -1,24 +1,7 @@
 #!/usr/bin/python
 
 """
-Note from student: Please review the following modifications for Python 3.9. Copies of the modified files are included
-in my submission.
-
-Change 1: Modified featureFormat and targetFeatureSplit references
--all "featureFormat" references changed to "feature_format"
--all "targetFeatureSplit" references changed to "target_feature_split"
--this affects import statements in:
-../final_project/poi_id.py
-../tools/feature_format.py
-../tools/tester.py
-
-Change 2: Modified line 75 in ../tools/feature_format.py.
--Error received during poi_id.py run - 'ValueError: could not convert string to float: 'phillip.allen@enron.com'
--Modified line 75 from tmp_list.append(float(value)) to tmp_list.append(value). This is noted by a student in Udacity's
--ud120 github repo. See: https://github.com/udacity/ud120-projects/issues/140
-
-Change 3: Modified functions dump_classifier_and_data and load_classifier_and_data
-- Error received during write process for Task 6 dump classifier.
+Files were modified to work with Python 3.9 and packages in requirements.txt
 """
 
 import sys
