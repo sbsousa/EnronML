@@ -22,7 +22,7 @@ The Udacity files were modified to work with Python 3.9 and current packages. If
 
 ## License:
 
-This project is publicly available for educational purposes. Please acknowledge your sources.
+This project is publicly available for educational purposes. Please acknowledge this source if you use it.
 
 ## Sources
 
