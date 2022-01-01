@@ -1,6 +1,6 @@
-# Enron Machine Learning Algorithm
+# Enron Machine Learning Analysis
 
-This project is an analysis of Enron persons of interest (POIs) using Machine Learning algorithms.  The project was created for Udacity's Data Analyst Nanodegree. 
+This project is an analysis of Enron persons of interest (POIs) using Machine Learning algorithms. The project was created for Udacity's Data Analyst Nanodegree. 
  
 Access the final report here: https://sbsousa.github.io/EnronML
 
@@ -20,7 +20,7 @@ The Udacity files were modified to work with Python 3.9 and current packages. If
 * poi_id.py: creates the pickle (pkl) files
 * tester.py: validates the selected machine learning algorithms against the pkl files and returns metrics (Accuracy, Precision, Recall, and F1) 
 
-## License:
+## License
 
 This project is publicly available for educational purposes. Please acknowledge this source if you use it.
 
