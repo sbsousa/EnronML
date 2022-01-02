@@ -30,4 +30,6 @@ The Python scripts were provided by Udacity:
 
 https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
+Udacity code that I modified is commented.
+
 Additional sources are acknowledged in the code and report.
